@@ -1,0 +1,9 @@
+ body{ background-image: url("canyon.jpg");
+            background-repeat:no-repeat;
+    background-position: center center;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+        }
